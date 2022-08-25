@@ -52,8 +52,6 @@ function App() {
         name={"Panfilo paes"}
         coment={"Es una buen caja de comentarios"}
       />
-
-      <CssCopy/>
     </div>
   );
 }
