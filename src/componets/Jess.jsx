@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Jessy from "../Ass/jess.jpg"
+import Jessy from "../Ass/shalltear.jpg"
 import '../CSS/Styles.css';
 
 const Jess = () => {
